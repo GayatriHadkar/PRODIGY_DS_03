@@ -3,3 +3,7 @@ Data Science Task 03-Build a decision tree classifier to predict whether a custo
 Sample Dateset :- https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 
+
+
+https://github.com/user-attachments/assets/14a509c9-af4e-4fe6-b403-ef77035c40e5
+
